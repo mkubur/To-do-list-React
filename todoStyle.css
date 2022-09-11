@@ -1,0 +1,14 @@
+.center {
+    position: center;
+    margin: auto;
+    padding: 5%;
+    width : 40%;
+}
+.comment {
+    position: center;
+    margin: auto;
+    padding: 5%;
+    width : 40%;
+    border: aqua;
+
+}
